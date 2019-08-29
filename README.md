@@ -1,2 +1,9 @@
-# WebcamCapture
+# VideoCapture
 p5.js｜WebcamCapture
+
+https://koichi-inoue.github.io/VideoCapture/ 
+
+* Webカメラをキャプチャーして、ピクセル単位に処理する例です。
+* この事例では、あなたのPCのWebカメラを起動します（カメラが必要です）。
+* ブラウザが、カメラを起動許可を求めてきますので、「許可」して下さい。
+* カメラの映像を他へ転送するような通信操作はしていません。カメラの映像はあなたのブラウザにしか表示されませんので、ご安心下さい。
