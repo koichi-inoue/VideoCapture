@@ -1,5 +1,5 @@
 # VideoCapture
-p5.js｜WebcamCapture
+p5.js｜VideoCapture
 
 https://koichi-inoue.github.io/VideoCapture/ 
 
